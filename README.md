@@ -4,3 +4,4 @@
 - v2 improves on this to count all atoms within the box
 - v3 takes slices and makes a distr fn
 - v4 makes a lammpstrj file to visualise
+- v5 is modified to deal with a box which does not have one vertex at the origin
